@@ -1,59 +1,40 @@
-# Contributing Guidelines
+# Contribution Guidelines
 
-Thank you for your interest in contributing to our project. Whether it's a bug report, new feature, correction, or additional
-documentation, we greatly value feedback and contributions from our community.
+Thank you for helping make this list awesome! Please read these guidelines before submitting a pull request.
 
-Please read through this document before submitting any issues or pull requests to ensure we have all the necessary
-information to effectively respond to your bug report or contribution.
+## Adding a Project
 
+1. **One project per PR.** This makes review easier.
+2. **Add to the end of the relevant section** — not alphabetically sorted.
+3. **Use this format:**
+   ```
+   - [Project Name](https://project.website.com/path/) - One-line description. License as of YYYY-MM-DD
+   ```
+   - If Amazon-vended, add `Amazon-vended | ` before the license.
+   - Description should be sentence case and explain what the project does.
+   - End the description with a period.
+4. **Verify your link works** before submitting.
 
-## Reporting Bugs/Feature Requests
+## Quality Bar
 
-We welcome you to use the GitHub issue tracker to report bugs or suggest features.
+Projects should meet these criteria:
 
-When filing an issue, please check existing open, or recently closed, issues to make sure somebody else hasn't already
-reported the issue. Please try to include as much information as you can. Details like these are incredibly useful:
+- **Kiro-specific** — The project should be built for or significantly integrate with Kiro.
+- **Functional** — It should work as described. Proof-of-concept is fine, but it should be runnable.
+- **Maintained** — At least one commit in the last 6 months, or clearly marked as stable/complete.
+- **Open source** — The project must have a public repository with a license.
 
-* A reproducible test case or series of steps
-* The version of our code being used
-* Any modifications you've made relevant to the bug
-* Anything unusual about your environment or deployment
+## What Doesn't Belong
 
+- Projects that merely mention Kiro in passing.
+- Forks of other projects with no meaningful changes.
+- Self-promotion spam.
+- Projects with no license.
 
-## Contributing via Pull Requests
-Contributions via pull requests are much appreciated. Before sending us a pull request, please ensure that:
+## Suggesting a New Category
 
-1. You are working against the latest source on the *main* branch.
-2. You check existing open, and recently merged, pull requests to make sure someone else hasn't addressed the problem already.
-3. You open an issue to discuss any significant work - we would hate for your time to be wasted.
+If your project doesn't fit an existing category, propose a new one in your PR description. Categories should be broad enough to hold at least 2-3 projects.
 
-To send us a pull request, please:
+## Security Issue Notifications
 
-1. Fork the repository.
-2. Modify the source; please focus on the specific change you are contributing. If you also reformat all the code, it will be hard for us to focus on your change.
-3. Ensure local tests pass.
-4. Commit to your fork using clear commit messages.
-5. Send us a pull request, answering any default questions in the pull request interface.
-6. Pay attention to any automated CI failures reported in the pull request, and stay involved in the conversation.
-
-GitHub provides additional document on [forking a repository](https://help.github.com/articles/fork-a-repo/) and
-[creating a pull request](https://help.github.com/articles/creating-a-pull-request/).
-
-
-## Finding contributions to work on
-Looking at the existing issues is a great way to find something to contribute on. As our projects, by default, use the default GitHub issue labels (enhancement/bug/duplicate/help wanted/invalid/question/wontfix), looking at any 'help wanted' issues is a great place to start.
-
-
-## Code of Conduct
-This project has adopted the [Amazon Open Source Code of Conduct](https://aws.github.io/code-of-conduct).
-For more information see the [Code of Conduct FAQ](https://aws.github.io/code-of-conduct-faq) or contact
-opensource-codeofconduct@amazon.com with any additional questions or comments.
-
-
-## Security issue notifications
-If you discover a potential security issue in this project we ask that you notify AWS/Amazon Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public github issue.
-
-
-## Licensing
-
-See the [LICENSE](LICENSE) file for our project's licensing. We will ask you to confirm the licensing of your contribution.
+If you discover a potential security issue, please notify AWS Security via our [vulnerability reporting page](http://aws.amazon.com/security/vulnerability-reporting/). Please do **not** create a public GitHub issue.
