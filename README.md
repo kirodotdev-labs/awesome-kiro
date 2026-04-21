@@ -56,7 +56,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Community
 
-- [Book of Kiro](https://kiro-community.github.io/book-of-kiro/) - Comprehensive community-maintained guide to Kiro covering IDE, CLI, and enterprise features.
+- [Book of Kiro](https://kiro-community.github.io/book-of-kiro/) - Comprehensive community-maintained guide to Kiro covering IDE, CLI, and enterprise features (Chinese language).
 - [Awesome Kiro Hackathon](https://github.com/JohnVersus/Awesome-Kiro-Hackathon) - Curated list of projects built for the Code with Kiro hackathon.
 - [Kiro Discord](https://discord.gg/kirodotdev) - Official community Discord server.
 
