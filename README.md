@@ -6,6 +6,13 @@
 
 Kiro brings structure to AI coding with spec-driven development, in the IDE and the terminal. Check out the [documentation](https://kiro.dev/docs) to learn more.
 
+<!--lint disable double-link awesome-toc--> 
+
+## Latest Additions
+
+- [KiroGraph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
+- [kiro-cli-history](https://github.com/prabhugr/kiro-cli-history) - Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.
+
 ## Contents
 
 - [Official](#official)
@@ -32,6 +39,8 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 - [kiro-generator](https://github.com/kiro-generator/kiro-generator) - Rust CLI for managing Kiro agent configurations with TOML inheritance and templates.
 - [kiro-project-template](https://github.com/BinarySword/kiro-project-template) - Starter template with steering docs, hooks, and an npx scaffolder supporting 13 stack presets.
+- [KiroGraph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
+- [kiro-cli-history](https://github.com/prabhugr/kiro-cli-history) - Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.
 - [Kiro Settings Manager](https://github.com/staneslevski/Kiro-Settings-Manager) - Python CLI for managing Kiro configuration bundles of skills, steering, and hooks.
 - [PARK](https://github.com/13shivam/park) - Electron app for running multiple Kiro CLI sessions in parallel.
 - [setup-kiro-action](https://github.com/clouatre-labs/setup-kiro-action) - GitHub Action to install and cache Kiro CLI in CI/CD pipelines.
