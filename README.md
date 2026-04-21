@@ -2,7 +2,7 @@
 
 > Tools, agents, and resources for Kiro — agentic AI development from prototype to production.
 
-> **Disclaimer:** This list is maintained by kiro-labs. The projects listed here are **not all built, owned, endorsed, or maintained by Amazon or AWS** unless explicitly noted as such. Inclusion does not constitute an endorsement. Each project is governed by its own license and maintainers — review them before use. Use at your own risk. See [DISCLAIMER.md](DISCLAIMER.md) for full details.
+> This list is community-curated. Projects are not built, endorsed, or maintained by Amazon or AWS unless noted, and inclusion is not an endorsement. See DISCLAIMER.md.
 
 Kiro brings structure to AI coding with spec-driven development, in the IDE and the terminal. Check out the [documentation](https://kiro.dev/docs) to learn more.
 
