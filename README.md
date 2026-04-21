@@ -39,14 +39,12 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 ## Agent Orchestration
 
 - [cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-provider agent orchestrator with Kiro CLI as the default backend.
-- [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) - Five-agent development workflow for Kiro CLI with leader, coder, ops, and reviewer roles.
+- [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 - [kiro-team](https://github.com/requix/kiro-team) - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
-- [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Rust-based multi-agent orchestrator with first-class Kiro CLI support.
+- [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
 
 ## Skills, Steering and Hooks
 
-- [Azure Kiro Powers](https://github.com/requix/azure-kiro-powers) - Powers for working with Azure services in Kiro.
-- [kiro-best-practices](https://github.com/awsdataarchitect/kiro-best-practices) - Drop-in .kiro/ configuration with curated steering docs and hooks.
 - [Kiro CLI Prompts for Product Teams](https://github.com/aws-samples/sample-kiro-cli-prompts-for-product-teams) - Product development workflow toolkit with PM-focused agents covering discovery through prototyping.
 - [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
 - [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) - Community collection of reusable steering documents organized by category.
@@ -54,7 +52,6 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 ## Built with Kiro
 
 - [E2E Product Development](https://github.com/aws-samples/sample-e2e-product-development-with-kiro) - Agent Lattice framework for running design-thinking workflows inside Kiro.
-- [Kiro Assistant](https://github.com/aws-samples/sample-kiro-assistant) - Electron desktop app wrapping Kiro CLI with MCP integrations.
 - [Kiro Steering Studio](https://github.com/aws-samples/sample-kiro-steering-studio) - Voice-powered steering file generator using Amazon Nova Sonic.
 - [PCS Kiro Agent](https://github.com/aws-samples/sample-pcs-kiro-agent) - Kiro CLI agent for creating and managing AWS Parallel Computing Service clusters.
 - [Spec-Driven Presentation Maker](https://github.com/aws-samples/sample-spec-driven-presentation-maker) - Four-layer architecture for generating presentations from Kiro skill to web app.
