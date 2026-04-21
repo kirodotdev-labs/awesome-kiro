@@ -2,7 +2,7 @@
 
 ## Sponsorship and Maintenance
 
-This repository (`awesome-kiro`) is hosted under the kiro-labs organization and sponsored by Amazon. It is a **community-curated list** of projects and resources related to Kiro and Kiro CLI.
+This repository (`awesome-kiro`) is hosted under the kiro-labs organization. It is a **community-curated list** of projects and resources related to Kiro and Kiro CLI.
 
 The individual projects, tools, agents, skills, steering files, and other resources linked from this list are **not all built, owned, endorsed, supported, or maintained by Amazon, AWS, or the Kiro team**. Unless a project is explicitly published under the `kirodotdev`, `aws`, `aws-samples`, or `awslabs` GitHub organizations — and the project's own README confirms its status — you should assume it is a third-party, community-maintained project.
 
