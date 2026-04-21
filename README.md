@@ -6,7 +6,7 @@
 
 Kiro brings structure to AI coding with spec-driven development, in the IDE and the terminal. Check out the [documentation](https://kiro.dev/docs) to learn more.
 
-<!--lint disable awesome-toc double-link-->
+<!--lint disable double-link awesome-toc--> 
 
 ## Latest Additions
 
@@ -15,7 +15,6 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Contents
 
-- [Latest Additions](#latest-additions)
 - [Official](#official)
 - [Workflows and Methodology](#workflows-and-methodology)
 - [CLI Tools and GitHub Actions](#cli-tools-and-github-actions)
