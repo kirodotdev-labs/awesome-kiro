@@ -6,10 +6,14 @@
 
 Kiro brings structure to AI coding with spec-driven development, in the IDE and the terminal. Check out the [documentation](https://kiro.dev/docs) to learn more.
 
+<!--lint disable awesome-toc double-link-->
+
 ## Latest Additions
 
 - [KiroGraph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
 - [kiro-cli-history](https://github.com/prabhugr/kiro-cli-history) - Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.
+
+<!--lint enable awesome-toc double-link-->
 
 ## Contents
 
