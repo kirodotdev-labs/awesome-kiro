@@ -57,6 +57,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro CLI Prompts for Product Teams](https://github.com/aws-samples/sample-kiro-cli-prompts-for-product-teams) - Product development workflow toolkit with PM-focused agents covering discovery through prototyping.
 - [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
 - [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) - Community collection of reusable steering documents organized by category.
+- [kiro-adr-skill](https://github.com/johndiv/kiro-adr-skill) - Spec-driven Architecture Decision Record generator with auto-numbering, trade-off analysis, and reusable templates. Apache 2.0 license as of 2026-04-29.
 
 ## Built with Kiro
 
