@@ -44,6 +44,10 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro Settings Manager](https://github.com/staneslevski/Kiro-Settings-Manager) - Python CLI for managing Kiro configuration bundles of skills, steering, and hooks.
 - [PARK](https://github.com/13shivam/park) - Electron app for running multiple Kiro CLI sessions in parallel.
 - [setup-kiro-action](https://github.com/clouatre-labs/setup-kiro-action) - GitHub Action to install and cache Kiro CLI in CI/CD pipelines.
+- [task-orchestrator-py](https://github.com/filhocf/task-orchestrator-py) - MCP server for hierarchical work management with dependency enforcement, workflow triggers, note gates, and workspace scoping. MIT as of 2026-05-10.
+- [mcp-proxy-plus](https://github.com/filhocf/mcp-proxy) - Production-grade MCP gateway with lazy reconnect, health monitoring, and API key auth — aggregates multiple MCP servers behind a single HTTP endpoint. MIT as of 2026-05-10.
+- [multi-playwright-mcp](https://github.com/filhocf/multi-playwright-mcp) - Multi-session wrapper around @playwright/mcp — run multiple isolated browser instances via a single MCP server with sessionId-based routing. MIT as of 2026-05-06.
+- [db-mcp-py](https://github.com/filhocf/db-mcp-py) - Multi-database MCP server with built-in SSH tunnels, read-only mode, and schema filtering for PostgreSQL, MySQL, SQLite, and MSSQL. MIT as of 2026-05-05.
 
 ## Agent Orchestration
 
