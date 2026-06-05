@@ -51,6 +51,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 - [kiro-team](https://github.com/requix/kiro-team) - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
+- [task-orchestrator-py](https://github.com/filhocf/task-orchestrator-py) - Hierarchical work management MCP server with dependencies, workflows, note gates, and workspace scoping for multi-session Kiro setups.
 
 ## Skills, Steering and Hooks
 
