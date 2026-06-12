@@ -10,6 +10,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Latest Additions
 
+- [Kiro AWS Well-Architected Skills](https://github.com/ricardogulias/kiro-aws-skills) - Eight skills and two steering files for performing AWS Well-Architected reviews, security assessments, cost audits, reliability plans, and migration readiness evaluations.
 - [KiroGraph](https://github.com/davide-desio-eleva/kirograph) - Semantic code knowledge graph for Kiro: tree-sitter-powered indexing, MCP tools for instant symbol lookups and call-graph traversal, optional vector search — all 100% local.
 - [kiro-cli-history](https://github.com/prabhugr/kiro-cli-history) - Terminal UI for fuzzy-searching, browsing, and resuming Kiro CLI conversations across all directories and session formats.
 
@@ -54,6 +55,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 
 ## Skills, Steering and Hooks
 
+- [Kiro AWS Well-Architected Skills](https://github.com/ricardogulias/kiro-aws-skills) - Eight skills covering full WA reviews, security assessments, cost optimization audits, reliability improvement plans, performance efficiency, sustainability optimization, migration readiness, and architecture decision records. Includes two steering files for WA-aligned agent behavior.
 - [Kiro CLI Prompts for Product Teams](https://github.com/aws-samples/sample-kiro-cli-prompts-for-product-teams) - Product development workflow toolkit with PM-focused agents covering discovery through prototyping.
 - [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
 - [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) - Community collection of reusable steering documents organized by category.
