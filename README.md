@@ -59,6 +59,8 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) - Community collection of reusable steering documents organized by category.
 - [kiro-adr-skill](https://github.com/johndiv/kiro-adr-skill) - Spec-driven Architecture Decision Record generator with auto-numbering, trade-off analysis, and reusable templates. Apache 2.0 license as of 2026-04-29.
 
+- [EGC](https://github.com/Fmarzochi/EGC) - Persistent cross-session memory MCP server for Kiro and 12 other AI coding tools. SQLite-backed state survives context resets. MIT license as of 2026-06-20.
+
 ## Built with Kiro
 
 - [E2E Product Development](https://github.com/aws-samples/sample-e2e-product-development-with-kiro) - Agent Lattice framework for running design-thinking workflows inside Kiro.
