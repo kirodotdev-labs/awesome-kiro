@@ -51,6 +51,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 - [kiro-team](https://github.com/requix/kiro-team) - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
+- [Agent Teams AI](https://github.com/777genius/agent-teams-ai) - Desktop orchestrator for autonomous coding-agent teams with guided Kiro CLI setup, inter-agent messaging, a live Kanban board, and code review. AGPL-3.0 license as of 2026-07-14.
 
 ## Skills, Steering and Hooks
 
