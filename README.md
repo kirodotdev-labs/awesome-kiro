@@ -44,7 +44,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro Settings Manager](https://github.com/staneslevski/Kiro-Settings-Manager) - Python CLI for managing Kiro configuration bundles of skills, steering, and hooks.
 - [PARK](https://github.com/13shivam/park) - Electron app for running multiple Kiro CLI sessions in parallel.
 - [setup-kiro-action](https://github.com/clouatre-labs/setup-kiro-action) - GitHub Action to install and cache Kiro CLI in CI/CD pipelines.
-- [SandBase CLI](https://github.com/sandbaseai/cli) - Configures Kiro IDE and Kiro CLI with an owned MCP bridge and native Skill for 2,000+ AI tools and 200+ models, with verified readback and rollback. Apache-2.0 license as of 2026-08-15.
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Configures Kiro IDE and Kiro CLI with an owned MCP bridge and native Skill for 2,000+ AI models and APIs, with verified readback and rollback. Apache-2.0 license as of 2026-08-15.
 
 ## Agent Orchestration
 
