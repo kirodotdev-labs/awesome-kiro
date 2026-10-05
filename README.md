@@ -58,6 +58,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
 - [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) - Community collection of reusable steering documents organized by category.
 - [kiro-adr-skill](https://github.com/johndiv/kiro-adr-skill) - Spec-driven Architecture Decision Record generator with auto-numbering, trade-off analysis, and reusable templates. Apache 2.0 license as of 2026-04-29.
+- [Simplified Technical English skill](https://github.com/paukode/simplified-technical-english-data-ai-skill) - Agent skill that writes and checks Simplified Technical English for runbooks, data contracts, model cards, and agent instructions, with a one-command install for Kiro. MIT license as of 2026-10-05.
 
 ## Built with Kiro
 
