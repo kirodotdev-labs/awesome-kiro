@@ -58,6 +58,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro Harness Hive](https://github.com/aws-samples/sample-kiro-harness-hive) - Skill for generating custom multi-agent harnesses with plan-execute-evaluate loops.
 - [kiro-steering-docs](https://github.com/mikeartee/kiro-steering-docs) - Community collection of reusable steering documents organized by category.
 - [kiro-adr-skill](https://github.com/johndiv/kiro-adr-skill) - Spec-driven Architecture Decision Record generator with auto-numbering, trade-off analysis, and reusable templates. Apache 2.0 license as of 2026-04-29.
+- [Tapetide Power](https://github.com/Tapetide-hq/nse-bse-indian-stock-market-data-mcp/tree/main/kiro-power) - Kiro Power that connects Kiro to Indian stock market data for about 8,200 NSE and BSE stocks (quotes, financials, shareholding, screener, FII/DII flows, option chains) through the Tapetide MCP server. MIT license as of 2026-10-10.
 
 ## Built with Kiro
 
