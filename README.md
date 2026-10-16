@@ -44,6 +44,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro Settings Manager](https://github.com/staneslevski/Kiro-Settings-Manager) - Python CLI for managing Kiro configuration bundles of skills, steering, and hooks.
 - [PARK](https://github.com/13shivam/park) - Electron app for running multiple Kiro CLI sessions in parallel.
 - [setup-kiro-action](https://github.com/clouatre-labs/setup-kiro-action) - GitHub Action to install and cache Kiro CLI in CI/CD pipelines.
+- [JustSessions](https://github.com/yangzichao/JustSessions) - Native Mac workspace for browsing, searching, and resuming Kiro CLI sessions alongside other coding agents. MIT as of 2026-10-15.
 
 ## Agent Orchestration
 
