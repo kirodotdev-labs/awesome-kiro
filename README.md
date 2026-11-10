@@ -51,6 +51,7 @@ Kiro brings structure to AI coding with spec-driven development, in the IDE and 
 - [Kiro CLI Multi-Agent Development](https://github.com/aws-samples/sample-kiro-cli-multiagent-development) - Five-agent development workflow demonstrating multi-agent patterns for Kiro CLI.
 - [kiro-team](https://github.com/requix/kiro-team) - Multi-agent orchestration patterns for Kiro CLI using worktree isolation.
 - [ralph-orchestrator](https://github.com/mikeyobrien/ralph-orchestrator) - Rust-based multi-agent orchestrator supporting Kiro CLI and other agent backends.
+- [agent manager](https://github.com/wainmann/agent-manager) - Local terminal app that runs Kiro CLI, Claude Code, Codex and other coding CLIs side by side in tmux, with live status and MCP tools to manage sessions. Apache 2.0 license as of 2026-11-10.
 
 ## Skills, Steering and Hooks
 
